@@ -29,7 +29,7 @@ A Windows expense tracker app built with Python, Tkinter (GUI), SQLite (data sto
 
 ## 🚀 How to Run
 
-git clone https://github.com/yourusername/expenseTrackerWinApp
+git clone https://github.com/TikhirNaga/expenseTrackerWinApp
 cd expenseTrackerWinApp
 
 python expense_tracker.py
